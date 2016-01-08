@@ -9,7 +9,7 @@
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
-#player #title{ left:93px;  }
+#player #title{ left:90px;  }
 #player #tooltip{ right:196px; }
 #player #timer{ right:120px;  }
 #player #list{ right:0px; }
@@ -27,4 +27,4 @@
 #playlist h3{ background:url(bar.jpg); color:#fff; background-color:#333;  }
 #playlist .even{background-color:#eee;}
 #playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#626262;}
+#playlist .focus{ background-color:#666; color:#FFF;}
