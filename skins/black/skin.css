@@ -5,11 +5,11 @@
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(http://www.mspaintadventures.com/storyfiles/hs2/04051.gif); background-width:37px; background-height:26px; }
+#player #play{ background:url(http://www.mspaintadventures.com/storyfiles/hs2/04051.gif); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
-#player #next{ left:52px; }
-#player #title{ left:93px;  }
+#player #next{ left:63px; }
+#player #title{ left:100px;  }
 #player #tooltip{ right:196px; }
 #player #timer{ right:120px;  }
 #player #list{ right:0px; }
@@ -24,7 +24,7 @@
 
 #playlist,#playlist .module,#playlist h3{ border-color:#333;}
 #playlist .module{  color:#333; background-color:#eee; }
-#playlist h3{ background:url(bar.jpg); color:#fff; background-color:#333;  }
+#playlist h3{ background:url(bar.jpg); color:#fff; background-color:#626262;  }
 #playlist .even{background-color:#eee;}
 #playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#333;}
+#playlist .focus{ background-color:#666; color:#626262;}
