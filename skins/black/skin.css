@@ -5,11 +5,11 @@
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(http://www.mspaintadventures.com/storyfiles/hs2/04051.gif); background-width:37px; background-height:26px; }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
-#player #next{ left:52px; }
-#player #title{ left:90px;  }
+#player #next{ left:63px; }
+#player #title{ left:100px;  }
 #player #tooltip{ right:196px; }
 #player #timer{ right:120px;  }
 #player #list{ right:0px; }
