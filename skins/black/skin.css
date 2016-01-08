@@ -8,8 +8,8 @@
 #player #play{ background:url(http://www.mspaintadventures.com/storyfiles/hs2/04051.gif); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
-#player #next{ left:63px; }
-#player #title{ left:100px;  }
+#player #next{ left:52px; }
+#player #title{ left:93px;  }
 #player #tooltip{ right:196px; }
 #player #timer{ right:120px;  }
 #player #list{ right:0px; }
