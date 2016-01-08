@@ -5,7 +5,7 @@
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(http://www.mspaintadventures.com/storyfiles/hs2/04051.gif); }
+#player #play{ background:url(playBtn.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
